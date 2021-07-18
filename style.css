@@ -225,4 +225,5 @@ body{
     background: #ee791a;
     width: 45%;
     height: 2px;
+    z-index: 70;
 }
