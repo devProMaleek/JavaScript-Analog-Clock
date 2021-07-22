@@ -7,6 +7,7 @@ let selectTimezone = document.getElementById('tz');
 
 // Timezone Array.
 let my_timezones = [
+    'Africa/Lagos',
     'Africa/Abidjan',
     'Africa/Accra',
     'Africa/Addis_Ababa',
