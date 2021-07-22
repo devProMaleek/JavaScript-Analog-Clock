@@ -10,6 +10,7 @@ body{
     font-size: 2rem;
     display: flex;
     flex: 1;
+    flex-direction: column;
     min-height: 100vh;
     align-items: center;
 }
@@ -226,4 +227,9 @@ body{
     width: 45%;
     height: 2px;
     z-index: 70;
+}
+
+/*Timezone select*/
+.timezone-select{
+    margin: auto;
 }
